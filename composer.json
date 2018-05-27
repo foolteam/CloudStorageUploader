@@ -1,0 +1,21 @@
+{
+    "name": "foolteam/CloudStorageUploader",
+    "type": "library",
+    "description": "Only For test. Nothing else.",
+    "keywords": ["Cloud Storage"],
+    "homepage": "https://github.com/foolteam/CloudStorageUploader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FoolTeam",
+            "email": "foolteam@qq.com",
+            "homepage": "https://github.com/foolteam"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": { "foolteam\\CloudStorageUploader\\": "src/" }
+    }
+}
